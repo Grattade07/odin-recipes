@@ -1,0 +1,23 @@
+.Title {
+    background-color: purple;
+    text-align: center;
+    font-size: 34px;
+    color: white;
+    font-weight: bold;
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+
+.flavour-text {
+    font-style: italic;
+    font-size: 28px;
+}
+
+.recipe {
+    font-size: 22px;
+    color: red;
+}
+
+.image {
+   height: 250px;
+   width: auto;
+}
